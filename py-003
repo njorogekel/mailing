@@ -1,0 +1,7 @@
+l=int(input("loan\n"))
+s=int(input("salary\n"))
+p=input("percent\n")
+q=(s*p)
+t=(1/q)
+add=(l*t)
+print("time",total)
